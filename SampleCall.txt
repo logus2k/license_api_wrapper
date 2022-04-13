@@ -1,0 +1,1 @@
+https://localhost:7052/License?key=encrypt_test&expire_year=2022&expire_month=1&expire_day=30&check_spoof=1
