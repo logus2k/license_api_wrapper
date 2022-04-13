@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B5q3IKB25bSivyhHnLg6h9YEDJ05aH2sA7ygFGH7wB0=",
+  "Source": "license_api_wrapper",
+  "BasePath": "_content/license_api_wrapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
